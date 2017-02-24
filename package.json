@@ -1,0 +1,22 @@
+{
+  "name": "express-ddos",
+  "version": "0.0.2",
+  "description": "Prevent DOS attacks in an Express environment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ddos",
+    "dos",
+    "express",
+    "ip",
+    "ip-blocking"
+  ],
+  "author": "porta8080 <adm.porta8080@gmail.com> (blog-porta8080.rhcloud.com)",
+  "repository": "victorsferreira/express-ddos",
+  "license": "ISC",
+  "dependencies": {
+    "ip": "^1.1.4"
+  }
+}
